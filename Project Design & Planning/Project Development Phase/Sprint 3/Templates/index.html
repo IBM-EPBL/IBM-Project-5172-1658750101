@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Digit Recongizer</title>
+</head>
+<body>
+    <div class="Parent-container">
+            <div class="header">
+                <h3 class="heading">IBM PROJECT</h3>
+                <div class="navbar">
+                    <ul>
+                        <li><a href="{{ url_for('index') }}">Home</a></li>
+                        <li><a href="{{ url_for('web') }}">Recognize</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="body-container">
+                <div class="background-image">
+                    <img src="/static/Images/img1.jpg" class="image">
+                    <div class="text">
+                        <h1 class="title">Handwritten Recognition System</h1>
+                        <p class="details">Technology that is widely used today is handwritten text recognition.
+						This approach for recognising numbers is used to recognise numbers from a variety of sources, including emails, 
+						bank checks, papers, photos, etc. Before this technology was properly implemented, we relied on manually writing texts,
+						which can lead to mistakes. Physical data cannot be stored or accessed efficiently.
+						The research focuses on reading handwritten numbers (0–9) from the well-known MNIST dataset.
+						We shall use artificial neural networks or convolution neural networks in this case.</p>
+                    </div>
+                </div>
+
+            </div>
+    </div>
+    
+</body>
+</html>
