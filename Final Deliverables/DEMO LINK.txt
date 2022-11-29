@@ -1,0 +1,9 @@
+A Novel Method for Handwritten Digit Recognition System
+Contributor :
+
+Ravi Kant (2019503549)
+Vigneshwar C (2019503060)
+Vimal Raaj M (2019503571)
+Kumara Kurunt K S (2019503529)
+
+DEMO LINK : https://drive.google.com/file/d/1Fx1Z2IOmq7M9S9O_PVpUYM4LGqIJSQKW/view?usp=sharing
